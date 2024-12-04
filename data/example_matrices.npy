@@ -1,0 +1,7 @@
+# In data/example_vectors.npy
+example_vectors = np.array([
+    [1, 0],
+    [0, 1],
+    [1, 1]
+])
+np.save('data/example_vectors.npy', example_vectors)

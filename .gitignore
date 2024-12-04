@@ -1,0 +1,7 @@
+# Anaconda/Python
+__pycache__/
+*.py[cod]
+.env
+.venv
+*.pyc
+.ipynb_checkpoints/
