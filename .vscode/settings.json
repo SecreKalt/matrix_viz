@@ -1,4 +1,5 @@
 {
     "files.autoSave": "afterDelay",
-    "git.postCommitCommand": "push"
+    "git.postCommitCommand": "push",
+    "gitdoc.enabled": true
 }
